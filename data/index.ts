@@ -29,7 +29,7 @@ export const gridItems = [
   {
     id: 3,
     title: "My Tech Stack",
-    description: "Proficient in React, Python, and cybersecurity tools.",
+    description: " ",
     className: "lg:col-span-1 md:col-span-3 md:row-span-2 lg:row-span-1",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -51,7 +51,7 @@ export const gridItems = [
     id: 5,
     title: "Currently Working On",
     description: "Developing a Malware Classifier using ML and security analytics.",
-    className: "md:col-span-2 md:row-span-2",
+    className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
     img: "/b5.svg",
